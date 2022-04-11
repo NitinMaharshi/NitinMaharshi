@@ -12,7 +12,7 @@ An aspiring full-stack developer with a specialization in MERN stack with a pass
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-- 💼 any freelance work? do reach, ✔️[Linkedin](www.linkedin.com/in/nitinmaharshi)
+- 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/nitinmaharshi/)
 - 💬 ask me about anything, i am happy to help;
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -55,8 +55,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## Let's get connected:
 
 <p>
-    <a href="www.linkedin.com/in/nitinmaharshi"><img alt="Linkedin"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=www.linkedin.com/in/nitinmaharshi"
+    <a href="https://www.linkedin.com/in/nitinmaharshi/"><img alt="Linkedin"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitinmaharshi/"
             height="35px" /></a>
 <!--     <a href="https://leetcode.com/jd_23/"><img alt="LeetCode"
             src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
