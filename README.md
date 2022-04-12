@@ -59,7 +59,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitinmaharshi/"
             height="35px" /></a>
          <a href="https://nitinmaharshi.vercel.app/"><img alt="Linkedin"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitinmaharshi/"
+            src="https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=portfolio&logoColor=white?link=http://left&link=https://nitinmaharshi.vercel.app/"
             height="35px" /></a>
 <!--     <a href="https://leetcode.com/jd_23/"><img alt="LeetCode"
             src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.com/jd_23/"
