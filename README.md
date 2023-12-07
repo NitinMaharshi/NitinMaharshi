@@ -7,7 +7,7 @@
 
 <br />
 
-An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+I am a passionate Junior MERN Stack Developer with expertise in DSA, React JS, Node JS, MongoDB, Express, and Tailwind CSS. I've worked on challenging projects, constantly honing my technical skills. My goal is to develop high-quality web applications and eventually establish my own company, focusing on innovative web solutions and providing opportunities for young talents. Outside of work, I'm an avid badminton enthusiast. If you'd like to connect or learn more about my expertise, feel free to send me a message or a connection request. I'm always open to new connections and opportunities.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
